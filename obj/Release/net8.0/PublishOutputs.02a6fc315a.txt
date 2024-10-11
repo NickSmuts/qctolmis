@@ -1,0 +1,16 @@
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\QCTOLMIS.exe
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\Web.config
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\appsettings.json
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\package-lock.json
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\package.json
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\QCTOLMIS.dll
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\QCTOLMIS.deps.json
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\QCTOLMIS.runtimeconfig.json
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\QCTOLMIS.pdb
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\System.Data.OleDb.dll
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\nick\Documents\12 QCTO Project\qctolmis\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
